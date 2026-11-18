@@ -1,0 +1,10 @@
+.DS_Store
+*.png
+*.jpg
+*.jpeg
+.claude/
+settings.local.json
+*.tmp
+.env
+.env.*
+*.log
