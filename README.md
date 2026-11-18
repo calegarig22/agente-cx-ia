@@ -34,3 +34,9 @@ Este repositório é a especificação do agente (não contém o export do fluxo
 - `regras-escalonamento.md` — regras de decisão
 - `plano-tecnico-n8n.md`, `build-n8n.md` — arquitetura e build
 - `golden-set.md`, `checklist-go-live.md`, `aprendizado-e-evolucao.md` — qualidade e evolução
+
+## Direitos autorais
+
+© 2026 Gustavo Fiedler Calegari. Todos os direitos reservados.
+
+Este código está publicado apenas para avaliação de portfólio. Não é permitido copiar, modificar, distribuir ou usar comercialmente, no todo ou em parte, sem autorização por escrito do autor.
